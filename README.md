@@ -22,6 +22,6 @@ Hi there! My name is Pavel Kukolovich, and I'm a frontend developer who is passi
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NikoBerd&icon=1&color=0)](https://visitcount.itsvg.in)
+<img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/2daa5a3f385c1ede09c109bb121875bb7738b99dffb43683bdf272ac5dd3dd0a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" style="display: block; opacity: 1;">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
